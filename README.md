@@ -6,6 +6,7 @@
 | ------------- |:-------------:| -----:|
 | Auxiliadora  | Travessa Lanceiros Negros | 7h às 13h |
 | Passo d'Areia | Shopping Center Iguatemi Porto Alegre - Avenida João Wallig | 10h às 16h |
+| Bom Fim | João Telles | 7h às 12h |
 
 ## Quartas-Feiras
 
